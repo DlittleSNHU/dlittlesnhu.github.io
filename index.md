@@ -78,14 +78,32 @@ View the artifact's enhanced code [HERE](https://github.com/DlittleSNHU/dlittles
 
 ### *Software Design and Engineering*
 
-I met this category by enhancing my Java Slideshow artifact. This application used to have 5 destinations to display on repeat with no changes. By re-engineering the application to use an API to gather data from an online database to pull activities to display in the application, I demonstrated my ablity to enhance software design and re-engineer an app. This application now displays 5 new activities everytime someone runs it, making it an app that is a lot more usable.
+I met this category by enhancing my Java Slideshow artifact. This application used to have 5 destinations to display on repeat with no changes. By re-engineering the application to use an API to gather data from an online database to pull activities to display in the application, I demonstrated my ablity to enhance software design and re-engineer an app. This application now displays 5 new activities everytime someone runs it, making it an app that is a lot more usable. I also implemented a random function so that users can select a random activity.
 
 View the enhancement narrative [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/blob/Narratives/Narrative%20for%20Category%20One.pdf).
 
 ### *Algorithms and Data Structures*
 
+I met this category by enhancing my Vector Sorting artifact. This project used to only have load functionality and 2 sorting algorithms for the user to sort the data from the CSV file. By adding sort-by-parameter options through sort algorithms and an "add a bid" option using attributes and cout for user input, the user can now add their own bid information and sort the information by date or Bid ID.
 
+View the enhancement narrative [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/blob/Narratives/Narrative%20for%20Category%20Two.pdf).
 
 ### *Databases*
 
+I met this category by enhancing my Java Slideshow artifact even more. This application, after it's enhancements, generated 5 activities for the user to do using an API. That information was never stored anywhere, it was lost once the program was terminated. Now I have implemented a database using SQL Lite to append all of the generated activities and categories to.
+
+View the enhancement narrative [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/blob/Narratives/Narrative%20for%20Category%20Three.pdf).
+
 ### <center>5 Course Outcomes</center>
+
+I have "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science" by pushing each original and enhanced project to a git repository. I did this to create that collaborative environment in which other coders can make changes and push them to the repository. I also made sure to leave comments in the code where major changes were made.
+
+I "Designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts" by adding the feature in my Java Slideshow to call an API endpoint which enhanced the project by incorporating a technique often found in the industry. This allowed for a more professional implementation of the software which is technically sound and relative to specific audiences. I also reached this course outcome by creating sort-by-paremeter functionality and add a bid functionality within my Vector Sorting project.
+
+I "Designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices" by designing “add a bid”, “sort by closing date”, and the sort by bidID functions in my Vector Sorting artifact. In each naming convention I was able to consider computer science practices and standards to make sure the design choices were appropriate.
+
+I "Demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals" in my Vector Sorting artifact by adding the sort functionality to allow the user to have more sorting options meets industry-specific goals because it allows for statistical research within companies and businesses. In the industry databases are widely used to store a significant amount of data in applications since it’s easy to make relations between other data bases. So, I met this outcome in my Java artifact by adding a database to my slideshow project to store the data gathered by the API. Doing this in Java was more difficult than I expected but being able to do so demonstrated my ability to use well-founded and innovative techniques, skills, and tools. On top of this, using databases is a much nicer and cleaner way to deal with data rather than using files for storage. I also created a random function which is an innovative technique to add when choosing a random task from the app.
+
+I "Developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources" by setting it to deallocate the memory and hosted the database locally. I have commented on each part of the code that has been edited to mitigate design flaws when other users build onto the code.
+
+## <center>Thank You</center>
