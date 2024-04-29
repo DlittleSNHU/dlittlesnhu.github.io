@@ -91,11 +91,12 @@ public class SlideShow extends JFrame {
 		btnRandom = new JButton();
 		lblSlide = new JLabel();
 		lblTextArea = new JLabel();
+		setResizable(false);
 
 		//Setup frame attributes
 		setSize(800, 600);
 		setLocationRelativeTo(null);
-		setTitle("Top 5 Destinations SlideShow");
+		setTitle("5 Random Activities SlideShow");
 		getContentPane().setLayout(new BorderLayout(10, 50));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
