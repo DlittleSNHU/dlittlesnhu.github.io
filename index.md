@@ -18,7 +18,7 @@ With each section of this ePortfolio I will be showcasing each enhancement and w
 Code review is essential when making updates to any project. Code review should go over the functionality of the original code, making sure there are no bugs and it is organized well. It should also go through the overal structure of the code, the logic and efficiency, its functionality, as well as the security and comment organization.
 At the end of my code review I will go through how I will meet each category and course outcome, and which enhancements I plan to do.
 
-View my code review video HERE.
+View my code review video [HERE](https://drive.google.com/file/d/10Hwcna6zY4RizFghgHwfXQd9y3fU2e9k/view?usp=sharing).
 
 ## <center>Artifact One Original</center>
 
@@ -60,6 +60,8 @@ Here is the artifact's original terminal interface:
   <img src="terminal.png" height=200>
 </center>
 
+View the artifact's original code [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/tree/Vector-Sorting).
+
 ## <center>Artifact Two Enhanced</center>
 
 Here is the enhanced vector sorting project. Written in C++ I was able to create two new sort by functions to increase usability within this application. 
@@ -70,11 +72,19 @@ Here is the artifact's enhanced terminal output:
   <img src="sorting1.png" height=200>
 </center>
 
+View the artifact's enhanced code [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/tree/Vector-Sorting---Enhanced).
+
 ### <center>Three Main Categories</center>
 
 ### *Software Design and Engineering*
 
+I met this category by enhancing my Java Slideshow artifact. This application used to have 5 destinations to display on repeat with no changes. By re-engineering the application to use an API to gather data from an online database to pull activities to display in the application, I demonstrated my ablity to enhance software design and re-engineer an app. This application now displays 5 new activities everytime someone runs it, making it an app that is a lot more usable.
+
+View the enhancement narrative [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/blob/Narratives/Narrative%20for%20Category%20One.pdf).
+
 ### *Algorithms and Data Structures*
+
+
 
 ### *Databases*
 
