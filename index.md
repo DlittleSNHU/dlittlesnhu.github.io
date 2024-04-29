@@ -30,7 +30,7 @@ This is the original artifact user interface:
   <img src="interface1.png" height=200>
 </center>
 
-View the artifact's original code HERE.
+View the artifact's original code [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/tree/Java-Slideshow---Original).
 
 ## <center>Artifact One Enhanced</center>
 
@@ -42,13 +42,33 @@ This is the enhanced artifact user interface:
   <img src="interface2.png" height=200>
 </center>
 
-View the artifact's enhanced code HERE.
+This is the enhanced artifact's database implementation:
+
+<center>
+  <img src="database.jpeg" height=200>
+</center>
+
+View the artifact's enhanced code [HERE](https://github.com/DlittleSNHU/dlittlesnhu.github.io/tree/Java-Slideshow-Enhanced).
 
 ## <center>Artifact Two Original</center>
 
-Here is the original vector sorting project. This code is written in C++ and displayed in a terminal interface. The code is used to load data from a CSV file and sort it using two different algorithms. I
+Here is the original vector sorting project. This code is written in C++ and displayed in a terminal interface. The code is used to load data from a CSV file and sort it using two different algorithms. I chose this artifact because there was plenty of room for improvements to make. I have added more algorithmic functionality by adding 2 extra sorting functions.
+
+Here is the artifact's original terminal interface:
+
+<center>
+  <img src="terminal.png" height=200>
+</center>
 
 ## <center>Artifact Two Enhanced</center>
+
+Here is the enhanced vector sorting project. Written in C++ I was able to create two new sort by functions to increase usability within this application. 
+
+Here is the artifact's enhanced terminal output:
+
+<center>
+  <img src="sorting1.png" height=200>
+</center>
 
 ### <center>Three Main Categories</center>
 
